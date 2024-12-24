@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Frond end development Projects
+- 🔭 I’m currently working on Front end development Projects
 - 🌱 I’m currently learning Javascript,React js ,Next js and back end techstack is  node js, Express js with database mongodb,mongoose and PostgresSQL
-- 👯 I’m looking to collaborate on small team which development frond end part
+- 👯 I’m looking to collaborate in small team which development front end part
 - 🤔 I’m looking for help your front End projects.
 - 💬 Ask me about Anything About Programing sector.
 - 📫 How to reach me: contact:01642095105, facebook:https://www.facebook.com/profile.php?id=100009313605113
