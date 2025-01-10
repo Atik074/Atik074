@@ -6,11 +6,11 @@
 - 🤔 I’m looking for help your front End projects.
 - 💬 Ask me about web development.
 - 📫 How to reach me: contact:01642095105,
--   facebook:https://www.facebook.com/profile.php?id=100009313605113
+-   
 - 
 ## 🌐 Socials:
 [![Facebook]
-(https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Atikur Rahman )
+facebook:https://www.facebook.com/profile.php?id=100009313605113
 
 
 # 💻 Tech Stack:
